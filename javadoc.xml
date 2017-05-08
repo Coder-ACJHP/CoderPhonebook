@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project default="javadoc">
-    <target name="javadoc">
-        <javadoc access="public" author="true" classpath="JTattoo-1.6.11.jar:applejavaextensions-1.4.jar:sqlite-jdbc-3.15.1.jar" destdir="doc" doctitle="Coder ContactBook Javadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.coder.contact,contacts.database" source="1.8" sourcepath="src" splitindex="true" use="true" version="true">
-            <link href="file:/Users/MacbookPro/Desktop/ContactBook/ContactBook_lib/"/>
-        </javadoc>
-    </target>
-</project>
