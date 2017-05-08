@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/SERVER/Desktop/ContactBook-master/resources/applejavaextensions-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/SERVER/Desktop/ContactBook-master/resources/JTattoo-1.6.11.jar"/>
-	<classpathentry kind="lib" path="C:/Users/SERVER/Desktop/ContactBook-master/resources/sqlite-jdbc-3.15.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SERVER/Documents/GitHub/ContactBook-master/resources/applejavaextensions-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SERVER/Documents/GitHub/ContactBook-master/resources/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SERVER/Documents/GitHub/ContactBook-master/resources/sqlite-jdbc-3.15.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
